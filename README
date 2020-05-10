@@ -1,2 +1,0 @@
-compilation is run from this directory, using the subdir name (project
-name). Board is arduino:avr:mega
